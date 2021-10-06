@@ -1,0 +1,6 @@
+charset,Shift_JIS
+name,•—˜Cã‚ª‚è‚Ìo‹M
+type,ghost
+directory,bathsister
+refresh,0
+refreshundeletemask,satori_savedata.txt:satori_savebackup.txt
