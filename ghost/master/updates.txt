@@ -1,9 +1,10 @@
+file,.gitignorec621c97b173da3bbaf23c4ac86d805aasize=114
 file,delete.txtafade3a60fd89258d265830715bb3432size=28
-file,developer_options.txtd41d8cd98f00b204e9800998ecf8427esize=0
+file,developer_options.txtd62de41ea4219da1371b38900ca8c032size=22
 file,install.txt57790c283222b41a6ddffc46d0cf972fsize=150
 file,readme.txt425143d2d77dbf6ca9e231f0a992dc3fsize=353
-file,ghost/master/descript.txtdcb1229ff093c544db1aaae8231cde38size=598
-file,ghost/master/dic_Base.txt5129996e9f7e3948349de4bec8eff100size=14538
+file,ghost/master/descript.txtc952174aa4f5b42c7eacf63b06ed7762size=675
+file,ghost/master/dic_Base.txtf07b246db28a348fffa1919685843be1size=14616
 file,ghost/master/dic_Communicate.txtad4a7051d674ea1bf719e9d311f97b32size=836
 file,ghost/master/dic_Mouse.txt63ca3ceb652fa59bfe17697fbd1368a3size=2163
 file,ghost/master/dic_Talk.txt2fe62aaed9bb635b9b903bdea8c5c394size=6200

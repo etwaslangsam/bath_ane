@@ -25,6 +25,9 @@
 ＠脱衣
 \![bind,服,下着_ショーツのみ,1]\![bind,靴下,,0]\![bind,飾り,,0]
 
+＠homeurl
+https://raw.githubusercontent.com/etwaslangsam/bath_ane/master/
+
 ＃─────────
 ＊OnSurfaceRestore
 \1\s[10]\0\s[（デフォルトサーフェス0）]\e
