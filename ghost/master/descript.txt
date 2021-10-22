@@ -1,7 +1,9 @@
 charset,Shift_JIS
 name,•—˜Cã‚ª‚è‚Ìo‹M
 type,ghost
+craftman,etwaslangsam
 craftmanw,‚Ä‚É‚Ä‚É
+craftmanurl,https://hotpepar.blogspot.com/
 homeurl,https://raw.githubusercontent.com/etwaslangsam/bath_ane/master/
 readme,readme.txt
 sakura.name,‚à‚à‚à
