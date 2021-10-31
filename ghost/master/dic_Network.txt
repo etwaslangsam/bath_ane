@@ -1,0 +1,35 @@
+＃─────────ネットワーク更新反応
+＠homeurl
+https://raw.githubusercontent.com/etwaslangsam/bath_ane/master/
+
+＊OnUpdateBegin
+\0\s[38]更新情報を取得中してるよ。\e
+
+＊OnUpdateReady
+\0\s[46]（Reference0）個のファイルが更新されてるね。\e
+
+＊OnUpdateComplete
+＞ネットワーク更新（Reference0）
+
+＊ネットワーク更新none
+\0\s[48]更新されてないね。\e
+
+＊ネットワーク更新changed
+\0\s[44]更新、終了したよ～。\e
+
+
+＊OnUpdateFailure
+＞ネットワーク更新（Reference0）
+
+＊ネットワーク更新timeout
+\0\s[49]時間切れだって～。\e
+
+＊ネットワーク更新md5 miss
+\0\s[49]なんか分かんないけどmd5 missだって。\e
+
+＊ネットワーク更新404
+\0\s[55]更新用ファイルが見つからなかったよ。\e
+
+＊ネットワーク更新artificial
+\0\s[0]中断するよ。\e
+

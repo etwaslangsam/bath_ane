@@ -1,0 +1,34 @@
+＠dressuprootbutton.visible
+0
+
+＠Rイベント
+（compare,（乱数1～20）,10）
+＃5%
+＠SRイベント
+（compare,（乱数1～40）,20）
+＃2.5%
+＠SSRイベント
+（compare,（乱数1～100）,50）
+＃1.5%
+
+＠脱衣
+\![bind,服,下着_ショーツのみ,1]\![bind,靴下,,0]\![bind,飾り,,0]
+
+＃─────────おすすめ
+＊おすすめサイト
+\0\b[2]\_q花王
+　\![*]\_a[https://www.kao.co.jp/bub/]バブ\_a
+　\![*]\_a[https://www.youtube.com/watch?v=_CGTz4zx_EA]メリット シャンプーのうた\_a
+　\![*]\_a[https://www.kao.com/jp/haircare/]ヘアケアサイト\_a
+　\![*]\_a[https://www.kao.com/jp/skincare/]スキンケアナビ\_a
+　\![*]\_a[https://www.kao.co.jp/bioreu/family/body_w/knack/]ビオレママの上手に泡立てるコツ\_a\n[half]
+アース製薬
+　\![*]\_a[https://www.earth.jp/bathroman/index.html]バスロマン\_a
+　\![*]\_a[https://www.earth.jp/onpo/index.html]温泡\_a
+　\![*]\_a[https://www.earth.jp/ofuro/index.html]お風呂ナビ\_a\n[half]
+バスクリン
+　\![*]\_a[https://www.bathclin.co.jp/sp/meito/]日本の名湯\_a
+　\![*]\_a[https://www.bathclin.co.jp/happybath/]はぴばす\_a\n[half]
+資生堂
+　\![*]\_a[https://www.shiseido.co.jp/sw/beautyinfo/]美容の情報\_a
+\n\q[なんでもないよ,Cancel]\_q\e
