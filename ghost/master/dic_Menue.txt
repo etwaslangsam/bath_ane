@@ -12,6 +12,9 @@
 \![*]\q[手前に,常に手前に] ／ \q[普通に,奥にかくれる]\n
 \![*]\q[終了する,ゴースト終了]\n
 \q[なんでもないよ,Cancel]
+\1
+\![*]\q[配布サイトを開く,配布サイト] \![*]\q[お問い合わせ,お問い合わせ]\n[half]
+\![*]\q[お便りを送る,OnWebClap]
 \_q\e
 
 ＊Cancel
@@ -20,6 +23,12 @@
 ＠キャンセル台詞
 \0\s[44]ほーい。\e
 \0\s[46]またなんかあったら遠慮なく言いなよ～。\e
+
+＊お問い合わせ
+\j[https://sites.google.com/view/ghost-hacking/messageform]
+
+＊配布サイト
+\j[https://sites.google.com/view/ghost-hacking/home]
 
 ＊AIグラフを開く
 \![open,aigraph]

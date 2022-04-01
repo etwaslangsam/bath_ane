@@ -1,0 +1,30 @@
+＃────────
+＊OnWebClap
+\![open,inputbox,拍手送信内容,,--limit=996]
+\0\e
+
+＊拍手送信内容を教えてもらった
+\0\_q\_?（拍手送信内容）\_?\_q
+\1（この内容で送信します）
+\_q
+\![*]\q[送信する,SendClap] \![*]\q[やめる,拍手送信内容が空打ちされた]
+\_q\e
+
+＊SendClap
+\![execute,http-post,http://clap.webclap.com/clap.php?id=teniwa,--param=message_body="姉貴＠（拍手送信内容）",--async=webclap]
+＄拍手送信内容	
+
+＊簡易拍手
+\![execute,http-post,http://clap.webclap.com/clap.php?id=teniwa,--param=message_body="姉貴＠（選択ラベル）",--async=webclap]
+＄拍手送信内容	
+
+＊拍手送信内容が空打ちされた
+＄拍手送信内容	
+\0φ（中断しますφ）\e
+
+＊OnExecuteHTTPComplete	（Reference1）==webclap
+＞（選択ラベル）が送信された
+\0（送信完了φ。ありがとうございますφ。）\e
+
+＊OnExecuteHTTPFailure	（Reference1）==webclap
+\0φ（（Reference4）φ）\e
