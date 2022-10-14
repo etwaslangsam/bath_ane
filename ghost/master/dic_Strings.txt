@@ -14,19 +14,64 @@
 
 ＃─────────おすすめ
 ＊おすすめサイト
-\0\b[2]\_q花王
-　\![*]\_a[https://www.kao.co.jp/bub/]バブ\_a
-　\![*]\_a[https://www.youtube.com/watch?v=_CGTz4zx_EA]メリット シャンプーのうた\_a
-　\![*]\_a[https://www.kao.com/jp/haircare/]ヘアケアサイト\_a
-　\![*]\_a[https://www.kao.com/jp/skincare/]スキンケアナビ\_a
-　\![*]\_a[https://www.kao.co.jp/bioreu/family/body_w/knack/]ビオレママの上手に泡立てるコツ\_a\n[half]
+＊sakura.recommendsites
+花王
+
+
+＊sakura.recommendsites
+バブ
+https://www.kao.co.jp/bub/
+＊sakura.recommendsites
+メリット シャンプーのうた
+https://www.youtube.com/watch?v=_CGTz4zx_EA
+＊sakura.recommendsites
+ヘアケアサイト
+https://www.kao.com/jp/haircare/
+＊sakura.recommendsites
+スキンケアナビ
+https://www.kao.com/jp/skincare/
+＊sakura.recommendsites
+ビオレママの上手に泡立てるコツ
+https://www.kao.co.jp/bioreu/family/body_w/knack/
+＊sakura.recommendsites
+-
+
+
+＊sakura.recommendsites
 アース製薬
-　\![*]\_a[https://www.earth.jp/bathroman/index.html]バスロマン\_a
-　\![*]\_a[https://www.earth.jp/onpo/index.html]温泡\_a
-　\![*]\_a[https://www.earth.jp/ofuro/index.html]お風呂ナビ\_a\n[half]
+
+
+＊sakura.recommendsites
+バスロマン
+https://www.earth.jp/bathroman/index.html
+＊sakura.recommendsites
+温泡
+https://www.earth.jp/onpo/index.html
+＊sakura.recommendsites
+お風呂ナビ
+https://www.earth.jp/ofuro/index.html
+＊sakura.recommendsites
+-
+
+
+＊sakura.recommendsites
 バスクリン
-　\![*]\_a[https://www.bathclin.co.jp/sp/meito/]日本の名湯\_a
-　\![*]\_a[https://www.bathclin.co.jp/happybath/]はぴばす\_a\n[half]
+
+
+＊sakura.recommendsites
+日本の名湯
+https://www.bathclin.co.jp/sp/meito/
+＊sakura.recommendsites
+はぴばす
+https://www.bathclin.co.jp/happybath/
+＊sakura.recommendsites
+-
+
+
+＊sakura.recommendsites
 資生堂
-　\![*]\_a[https://www.shiseido.co.jp/sw/beautyinfo/]美容の情報\_a
-\n\q[なんでもないよ,Cancel]\_q\e
+
+
+＊sakura.recommendsites
+美容の情報
+https://www.shiseido.co.jp/sw/beautyinfo/
