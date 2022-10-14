@@ -1,5 +1,3 @@
-＠dressuprootbutton.visible
-0
 
 ＠Rイベント
 （compare,（乱数1～20）,10）

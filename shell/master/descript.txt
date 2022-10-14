@@ -80,7 +80,7 @@ sakura.bindgroup606.name,服,青セーター
 sakura.bindgroup607.name,服,茶セーター_上のみ
 sakura.bindgroup608.name,服,茶セーター
 sakura.bindgroup610.default,1
-//sakura.bindoption1.group,服,mustselect
+sakura.bindoption1.group,服,mustselect
 
 sakura.menu,auto
 //####必要なければ削って下さい
