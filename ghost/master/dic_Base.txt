@@ -111,9 +111,6 @@
 ＊tが押された
 （）
 
-＊iが押された
-\0ランダムトーク（countNoNameTalk）個\e
-
 ＃─────────
 ＊OnMouseDoubleClick
 ＞（Reference3）（Reference4）つつかれ	（Reference5）==0
