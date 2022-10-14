@@ -118,9 +118,6 @@
 ＊OnMouseClick	（Reference5）==0
 ＞（Reference3）（Reference4）つつかれ	（is_empty,（Reference4））==0
 
-＊OnMouseClick	（Reference5）==1
-＞（Reference3）つつかれ	（Reference4）!=Head
-
 ＊OnMouseDoubleClick	（Reference5）==0
 ＞（Reference3）つつかれ	（is_empty,（Reference4））==1
 
