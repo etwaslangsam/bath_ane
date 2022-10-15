@@ -10,6 +10,22 @@ seriko.use_self_alpha,1
 
 readme,readme.txt
 
+menu.background.bitmap.filename,bg.png
+menu.background.font.color.r,255
+menu.background.font.color.g,128
+menu.background.font.color.b,128
+
+menu.foreground.bitmap.filename,fg.png
+menu.foreground.font.color.r,255
+menu.foreground.font.color.g,128
+menu.foreground.font.color.b,255
+
+menu.sidebar.bitmap.filename,sb.png
+
+menu.disable.font.color.r,204
+menu.disable.font.color.g,204
+menu.disable.font.color.b,102
+
 //####必要なければ削って下さい
 #sakura.bindgroup40.name,髪,ベージュ
 #sakura.bindgroup41.name,髪,白
