@@ -7,12 +7,13 @@
 ▼コミュニケーション\n[half]
  \![*]\q[なにか話して,ランダムトーク]\n
 ▼設定\n[half]
- \![*]\q[設定の確認,ステータス確認]\n[half]
+ \![*]\q[設定の確認,information]\n[half]
  \![*]\q[喋る頻度の変更,TalkInterval]\n[half]
- \![*]\q[呼び方を変えて,呼び方を変えて]\n[half]
+ \![*]\q[呼び方を変えて,呼び方を変えて]\n
+▼その他\n[half]
  \![*]\q[手前に,常に手前に] ／ \q[普通に,奥にかくれる]\n
-▼webclap\n[half]
- \![*]\q[お便りを送る,OnWebClap]
+▼web拍手\n[half]
+ \![*]\q[コメント送信,OnWebClap]
 \n\q[なんでもない,Cancel]
 \_q\e
 
@@ -51,9 +52,9 @@
 （）
 
 ＃─────────
-＊ステータス確認
+＊information
 \0\_q\b[2]\q[←,Menu]　\q[×,Cancel]\n
-（zen2han，（現在年）年（現在月）月（現在日）日）\n
+（現在年）年 （現在月）月 （現在日）日\n
 トーク数φ：（when,（countNoNameTalk）＞999,（zen2han，（countNoNameTalk））,（countNoNameTalk））\n
 起動回数φ：（when,（起動した回数）＞999,（zen2han，（起動した回数））,（起動した回数））
 喋り頻度φ：（喋り間隔）

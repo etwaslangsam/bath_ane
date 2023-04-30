@@ -15,12 +15,14 @@
 
 ＃─────────シェル変更
 ＊OnShellChanging
-：（Reference0）に着替えます。
-：覗いちゃダメですよ。
+＞（Reference0）に着替える
 
 ＊OnShellChanged
-：（Reference0）に着替えました。
-：どうでしょう。
+＄現在シェル	（Reference0）
+＞（Reference0）に着替えた
+
+＊距離感バグったに着替えた
+\0\s[46]へっへ～、もっと近くで話そうぜ～？\e
 
 ＃─────────着せ替え
 ＊OnDressupChanged	（Reference2）==1
@@ -101,8 +103,11 @@
 ≫「　（Reference1）
 ＞COMMUNICATE該当なし
 
-＊OnAnchorSelect
-\j[（Reference0）]
+＊OnAnchorSelectEx
+＄選択ＩＤ	（Reference0）
+＄選択ラベル	（Reference1）
+＞（Reference1）
+
 
 ＃─────────
 ＊OnKeyPress
