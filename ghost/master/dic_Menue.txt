@@ -4,15 +4,15 @@
 
 ＊MainMenue
 \0\s[（デフォルトサーフェス0）]\b[2]\c\_q
-▼コミュニケーション\n[half]
+コミュニケーション\n[half]
  \![*]\q[なにか話して,ランダムトーク]\n
-▼設定\n[half]
+設定\n[half]
  \![*]\q[設定の確認,information]\n[half]
  \![*]\q[喋る頻度の変更,TalkInterval]\n[half]
  \![*]\q[呼び方を変えて,呼び方を変えて]\n
-▼その他\n[half]
+その他\n[half]
  \![*]\q[手前に,常に手前に] ／ \q[普通に,奥にかくれる]\n
-▼web拍手\n[half]
+web拍手\n[half]
  \![*]\q[コメント送信,OnWebClap]
 \n\q[なんでもない,Cancel]
 \_q\e
