@@ -11,9 +11,9 @@ seriko.use_self_alpha,1
 readme,readme.txt
 
 menu.background.bitmap.filename,bg.png
-menu.background.font.color.r,50
-menu.background.font.color.g,50
-menu.background.font.color.b,50
+menu.background.font.color.r,255
+menu.background.font.color.g,255
+menu.background.font.color.b,255
 
 menu.foreground.bitmap.filename,fg.png
 menu.foreground.font.color.r,255
@@ -22,9 +22,9 @@ menu.foreground.font.color.b,255
 
 menu.sidebar.bitmap.filename,sb.png
 
-menu.disable.font.color.r,200
-menu.disable.font.color.g,200
-menu.disable.font.color.b,200
+menu.disable.font.color.r,14
+menu.disable.font.color.g,181
+menu.disable.font.color.b,185
 
 sakura.bindgroup100.name,髪,ロングヘア
 sakura.bindgroup101.name,髪,ポニーテール

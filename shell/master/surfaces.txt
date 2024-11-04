@@ -730,5 +730,9 @@ collisionex6,Leg,polygon,153,448,107,415,98,455,103,510,110,538,144,545,152,493
 collisionex7,Leg,polygon,217,432,166,447,171,492,182,541,216,551
 //collision8,98,699,138,732,Foot
 //collision9,186,699,234,729,Foot
+collisionex10,Belly,polygon,143,371,135,403,158,411,178,408,181,384,179,372
+collisionex11,Koshi,polygon,181,371,180,405,193,405,207,401,194,372
+collisionex12,Koshi,polygon,142,370,142,405,114,402,132,369
+collisionex13,Ear,polygon,135,233,126,239,137,247,144,244
 }
 

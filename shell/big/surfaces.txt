@@ -402,5 +402,9 @@ collisionex0,Head,rect,296,112,520,206
 collisionex2,Lip,rect,423,293,468,322
 collisionex6,Leg,rect,250,838,572,1041
 collisionex10,Bust,rect,330,537,559,642
+collisionex11,Belly,polygon,369,636,360,730,406,740,457,736,467,680,470,641,427,626
+collisionex12,Koshi,polygon,471,641,462,735,499,732,540,716,506,642
+collisionex13,Koshi,polygon,371,637,360,728,293,720,313,679,347,623
+collisionex14,Ear,polygon,347,282,331,290,349,312,371,315
 }
 
