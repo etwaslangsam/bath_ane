@@ -97,17 +97,15 @@
 ＊OnUserInputCancel
 ＞（Reference0）を空打ちされた	（compare,（Reference1）,close）
 
-＊OnCommunicate
-≫ユーザ「　（Reference1）	（compare,（Reference0）,user）
-≫（Reference0）「　（Reference1）
-≫「　（Reference1）
-＞COMMUNICATE該当なし
-
-＊OnAnchorSelectEx
-＄選択ＩＤ	（Reference0）
-＄選択ラベル	（Reference1）
+＊OnChoiceSelectEx
+＄選択ラベル	（Reference0）
+＄選択ＩＤ	（Reference1）
 ＞（Reference1）
 
+＊OnAnchorSelectEx
+＄選択ラベル	（Reference0）
+＄選択ＩＤ	（Reference1）
+＞（Reference1）
 
 ＃─────────
 ＊OnKeyPress
